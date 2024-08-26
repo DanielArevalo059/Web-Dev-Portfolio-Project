@@ -22,7 +22,7 @@ To run the backend server on http://localhost:5000:
 1. Clone the repository.
 2. cd backend
 3. npm i
-4. update the .env file with:
+4. Create and update a .env file with:\n
     PORT=5000
     MONGODB_URI=<your_mongodb_connection_string>
 5. npm run dev
