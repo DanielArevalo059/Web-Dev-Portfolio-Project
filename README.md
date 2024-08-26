@@ -25,6 +25,7 @@ To run the backend server on http://localhost:5000:
 4. Create and update a .env file with:
    
     PORT=5000
+
     MONGODB_URI=<your_mongodb_connection_string>
 6. npm run dev
 
