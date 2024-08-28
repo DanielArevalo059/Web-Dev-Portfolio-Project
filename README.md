@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a full-stack web application built with a React frontend, Node/Express backend, and MongoDB database. The application provides users with the ability to create, read, update, and delete data in a Disc Golf log page.
+This is a full-stack web application built with a React frontend, Node/Express backend, and MongoDB database. The application provides users with a few simulated experiences to exemplify a dynamic weeb app. The user can create, read, update, and delete data in a Disc Golf log page, simulate a purchasing experience through the Order page, and experience dynamic DOM manipulation through the Staff page.
 
 ## Features
 
